@@ -1,0 +1,6 @@
+framework module TextFramework {
+  umbrella header "TextFramework.h"
+
+  export *
+  module * { export * }
+}
